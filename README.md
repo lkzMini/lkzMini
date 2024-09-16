@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas "@lkzMini".
 - 👀 I’m interested in Cybersecurity, coding and gaming.
-- 🌱 I’m currently learning Python and Cybersecurity.
+- 🌱 I’m currently learning Python and Cybersecurity. And working as DevOps!
 - 💞️ I’m looking to collaborate on ... ?
 - 📫 How to reach me https://linktr.ee/lkzMini
 
